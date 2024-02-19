@@ -1,0 +1,3 @@
+/Users/rileyoest/VS_Code/DataStructures-Algorithms/1.Arrays/CppArrays/build/CMakeFiles/CppArrays.dir
+/Users/rileyoest/VS_Code/DataStructures-Algorithms/1.Arrays/CppArrays/build/CMakeFiles/edit_cache.dir
+/Users/rileyoest/VS_Code/DataStructures-Algorithms/1.Arrays/CppArrays/build/CMakeFiles/rebuild_cache.dir
